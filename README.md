@@ -1,4 +1,4 @@
-# Ex--6-AWS-Account-setup-and-S3-creation-
+# Ex--6-AWS-Account-setup-and-S3-creation--
 
 # Reg:212223040122
 # name:Muthulakshmi D
